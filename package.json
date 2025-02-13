@@ -1,0 +1,12 @@
+{
+  "name": "ask-out-your-valentine-main",
+  "version": "1.0.0",
+  "description": "Thank you to [@mewtru](https://instagram.com/mewtru) for the video idea!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
